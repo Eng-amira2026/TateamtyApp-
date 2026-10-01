@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "656573978340",
+    "project_id": "tateamtyapp1",
+    "storage_bucket": "tateamtyapp1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656573978340:android:cee80a4593d0c1af71bef1",
+        "android_client_info": {
+          "package_name": "com.nor.tateamtyapp1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYkFiNpCivBeQRL-FRaDGJu9bu57sEtSs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
